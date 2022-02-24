@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        style="@style/Base.CardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:contentPadding="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <!-- YouTube trailer thumbnail -->
+                <ImageView
+                    android:id="@+id/iv_trailer_thumbnail"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="center" />
+
+                <!-- Play button image -->
+                <ImageView
+                    android:id="@+id/iv_trailer_play_circle"
+                    android:layout_width="80dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:background="@drawable/play_circle" />
+
+            </FrameLayout>
+
+            <!-- Trailer name -->
+            <TextView
+                android:id="@+id/tv_trailer_name"
+                style="@style/TextAppearance.Material3.ActionBar.Subtitle"
+                android:layout_gravity="center"
+                android:ellipsize="end"
+                android:maxLines="2"
+                android:paddingTop="8dp"
+                android:textColor="@android:color/white" />
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+</layout>

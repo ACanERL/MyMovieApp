@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Movies"
+        android:icon="@drawable/ic_movie"
+        android:id="@+id/mainFragment" />
+    <item android:id="@+id/myListFragment"
+        android:icon="@drawable/ic_upcoming"
+        android:title="Up Coming"/>
+    <item android:title="Search"
+        android:icon="@drawable/ic_search"
+        android:id="@+id/searchFragment"/>
+
+</menu>
