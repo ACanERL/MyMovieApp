@@ -30,9 +30,10 @@
                     android:layout_marginTop="16dp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginStart="16dp"
+                    android:layout_marginStart="20dp"
                     android:fontFamily="@font/roboto_bold"
-                    android:text="Popüler"
+                    android:text="Populer"
+                    android:textColor="@color/renk1"
                     android:textSize="20sp" />
 
                 <androidx.recyclerview.widget.RecyclerView
@@ -48,10 +49,11 @@
                     android:id="@+id/textView"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginStart="12dp"
+                    android:layout_marginStart="20dp"
                     android:layout_marginTop="16dp"
                     android:fontFamily="@font/roboto_bold"
-                    android:text="Vizyondakiler"
+                    android:text="Now Playing"
+                    android:textColor="@color/renk1"
                     android:textSize="20sp" />
 
                 <androidx.recyclerview.widget.RecyclerView
