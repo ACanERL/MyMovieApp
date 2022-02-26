@@ -17,14 +17,11 @@
  
  <h1>Screenshots</h1>
  
- ![Ekran Görüntüsü (25)](https://user-images.githubusercontent.com/71428865/155590634-3ec8bc5d-e9db-475b-b614-d0e2db339572.png)
- 
-![Ekran Görüntüsü (27)](https://user-images.githubusercontent.com/71428865/155590671-eb43664d-d883-4997-b0b4-c788e1e03cc4.png)
+![Ekran Görüntüsü (33)](https://user-images.githubusercontent.com/71428865/155838775-87dfc16c-2f83-4eb9-954d-660fcb94fa7e.png)
 
-![Ekran Görüntüsü (28)](https://user-images.githubusercontent.com/71428865/155590692-95deed60-ac05-4017-a3e2-4a90fb33d859.png)
+![Ekran Görüntüsü (36)](https://user-images.githubusercontent.com/71428865/155838782-7f6c1f45-b1c6-412f-ae22-069f30bc247f.png)
 
-![Ekran Görüntüsü (29)](https://user-images.githubusercontent.com/71428865/155590709-e72eaf29-047c-4842-a723-f90d3851d8cb.png)
+![Ekran Görüntüsü (37)](https://user-images.githubusercontent.com/71428865/155838788-4883dbc4-73b4-4627-bed0-0d44e434a37e.png)
 
-![Ekran Görüntüsü (30)](https://user-images.githubusercontent.com/71428865/155590728-8b9aa075-d749-494f-83f9-3ffbabc21cd8.png)
-
+![Ekran Görüntüsü (38)](https://user-images.githubusercontent.com/71428865/155838798-f68b2e5c-ab28-43cd-b797-60639bcf1164.png)
 
