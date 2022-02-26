@@ -6,7 +6,7 @@
  
  This app uses the API from <li><a href="https://www.themoviedb.org/">TMDB</a></li>
  
- <h2>Libraries</h2>
+ <h2>Libraries and Component</h2>
  <li>Navigation</li>
  <li>Android Data Binding</li>
  <li>Retrofit</li>
